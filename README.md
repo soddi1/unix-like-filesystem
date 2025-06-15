@@ -1,4 +1,4 @@
-# simple-ext4-fs
+# Unix like Filesystem
 
 ![C](https://img.shields.io/badge/C-Language-blue)
 ![Filesystem](https://img.shields.io/badge/Filesystem-Simulator-orange)
